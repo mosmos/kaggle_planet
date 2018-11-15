@@ -2,4 +2,4 @@
 
 https://www.kaggle.com/c/planet-understanding-the-amazon-from-space
 
-P.S. If someone wants to fork and clean it - you are welcome.
+forking  and cleaning from Vladimir Iglovikov kernal
